@@ -82,7 +82,10 @@ public class Wortstatistik {
 
 }
 
-
+/* regular expression 
+ * 
+ * ---> Nachschlagen! --> https://www.vogella.com/tutorials/JavaRegularExpressions/article.html
+ */
 
 
 
